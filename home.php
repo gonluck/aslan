@@ -19,12 +19,12 @@ get_header(); ?>
 <section id="message">
 	<h1>ASLAN（アスラン）は、<br />東飯能駅から徒歩3分の美容室です。</h1>
 	<figure>
-		<img alt-"img-lion" src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/top/2021_newyear.png">
+		<img alt-"img-lion" src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/top/lion_normal.png">
 	</figure>
 	<p><a href="/greeting-december-2020/">今年もご愛顧頂きありがとうございました</a></p>
-	<!--<figure>
+	<figure>
 		<img alt-"covid19-guideline" src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/top/3-01-1.jpg">
-	</figure>-->
+	</figure>
 
 </section>
 
